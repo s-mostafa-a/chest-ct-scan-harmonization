@@ -1,0 +1,6 @@
+matplotlib==3.3.1
+numpy>=1.19.2
+SimpleITK==1.2.4
+dicom-numpy>=0.4.0
+pydicom>=2.0.0
+git+git://github.com/s-mostafa-a/CT-noise-statistical-characterization.git
